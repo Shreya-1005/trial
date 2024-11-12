@@ -1,4 +1,4 @@
 # trial
 This is my first Git-Repository
 <br>
-Author- Shreya Srivastava
+Author- Shreya Srivastava IT
